@@ -49,10 +49,6 @@
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LehaAlexey&theme=github_dark"
     width="49%"
   />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LehaAlexey&theme=github_dark&utcOffset=5"
-    width="49%"
-  />
 </p>
 
 ---
