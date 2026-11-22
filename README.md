@@ -56,3 +56,24 @@
 ### 🔧 Also worked with
 
 `Blazor Server` · `IIS` · `Windows Authentication` · `LINQ` · `REST` · `HTML` · `CSS` · `Python` · `WinForms` · `Unity`
+
+---
+
+### 🎮 Unity Projects
+
+**C#/.NET Backend Developer | Unity Enthusiast**
+
+Alongside backend development, I explore Unity gameplay and technical prototypes. Recent Unity work uses AI-assisted coding tools transparently: my contribution focuses on concept development, requirements, testing, iteration, feedback, and reviewing the resulting implementation.
+
+#### Recent AI-Assisted Experiments
+
+- [Before Dawn](https://github.com/LehaAlexey/unity-before-dawn) — a 2D playable-slice prototype with scene-state flow, combat, enemy perception, UI, and PlayMode test source.
+- [LiDAR Point-Cloud Prototype](https://github.com/LehaAlexey/unity-lidar-point-cloud-prototype) — a URP technical prototype for raycast-driven point-cloud visualisation.
+
+#### Early Unity Projects
+
+Early Unity learning projects are being curated separately. Projects with unverified third-party assets are intentionally not published until their redistribution rights are confirmed.
+
+#### itch.io
+
+- [LehaAlexey on itch.io](https://lehaalexey.itch.io/) — new Unity builds will be linked here only after a fresh build and interactive smoke test.
