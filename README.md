@@ -69,6 +69,7 @@ Alongside backend development, I explore Unity gameplay and technical prototypes
 
 - [Before Dawn](https://github.com/LehaAlexey/unity-before-dawn) — a 2D playable-slice prototype with scene-state flow, combat, enemy perception, UI, and PlayMode test source.
 - [LiDAR Point-Cloud Prototype](https://github.com/LehaAlexey/unity-lidar-point-cloud-prototype) — a URP technical prototype for raycast-driven point-cloud visualisation.
+- [Beaver Runner](https://github.com/LehaAlexey/unity-beaver-runner-prototype) — a source-only Unity runner prototype; original art is excluded pending licence verification.
 
 #### Early Unity Projects
 
