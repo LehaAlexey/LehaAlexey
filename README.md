@@ -73,7 +73,9 @@ Alongside backend development, I explore Unity gameplay and technical prototypes
 
 #### Early Unity Projects
 
-Early Unity learning projects are being curated separately. Projects with unverified third-party assets are intentionally not published until their redistribution rights are confirmed.
+- [MILKY](https://github.com/LehaAlexey/unity-milky-learning-prototype) — an asset-remediated, source-only early Unity learning project. The public version replaces or removes the original models of uncertain provenance, audio, font, and undocumented UI images; it is not presented as a downloadable player build.
+
+Other early Unity learning projects are being curated separately. Projects with unverified third-party assets are intentionally not published until their redistribution rights are confirmed.
 
 #### itch.io
 
